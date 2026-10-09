@@ -1,0 +1,3 @@
+[submodule "ds-practice-problems"]
+	path = use/problems
+	url = https://github.com/Garnik645/ds-practice-problems
